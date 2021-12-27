@@ -1,5 +1,6 @@
-## Introduction
 ![image](https://user-images.githubusercontent.com/21039727/147492602-de007b24-f31a-42e7-a6b3-42171ab13fd5.png)
+
+## Introduction
 
 This blog describes some of the bugs I encountered whilst developing my game Taiga in Rust using WGPU.
 
