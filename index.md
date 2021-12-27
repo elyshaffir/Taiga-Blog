@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Introduction
+![image](https://user-images.githubusercontent.com/21039727/147492602-de007b24-f31a-42e7-a6b3-42171ab13fd5.png)
 
-You can use the [editor on GitHub](https://github.com/elyshaffir/Taiga-Blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This blog describes some of the bugs I encountered whilst developing my game Taiga in Rust using WGPU.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There is (at the time of me writing this) very little content on the internet (apart from this great [tutorial](https://sotrh.github.io/learn-wgpu/) to start with and a [subreddit](https://www.reddit.com/r/rust_gamedev/) for Rust game development) for WGPU developers in Rust, and this blog was started to share some knowledge and experience.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elyshaffir/Taiga-Blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feel free to PR this project if you spot any mistakes or have some additional knowledge to share that you see fit for this blog.
