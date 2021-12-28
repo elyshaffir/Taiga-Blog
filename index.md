@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![image](https://user-images.githubusercontent.com/21039727/147608004-a6ce15cf-2b40-4734-9377-67392451c0f4.png)
+![image](https://user-images.githubusercontent.com/21039727/147608145-d5e6555b-da65-4bed-aa59-fe8c7340dc05.png)
 
 
 ## Introduction
