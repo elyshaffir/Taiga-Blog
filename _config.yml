@@ -23,10 +23,9 @@ title: Taiga Blog
 description: >- # this means to ignore newlines until "baseurl:"
         This blog describes some of the bugs I encountered whilst developing my game Taiga in Rust using WGPU.
 domain: elyshaffir.github.io
-baseurl: "Taiga-Blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://elyshaffir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  elyshaffir
 
 # Build settings
 theme: minima
