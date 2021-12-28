@@ -24,7 +24,10 @@ description: >- # this means to ignore newlines
 domain: elyshaffir.github.io
 baseurl: "/Taiga-Blog" # the subpath of your site, e.g. /blog
 url: "https://elyshaffir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: Ely Shaffir
 github_username:  elyshaffir
+linkedin_username: ely-shaffir-582144ab
+
 
 # Build settings
 theme: minima
