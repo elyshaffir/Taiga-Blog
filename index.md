@@ -1,3 +1,9 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
 ![image](https://user-images.githubusercontent.com/21039727/147492602-de007b24-f31a-42e7-a6b3-42171ab13fd5.png)
 
 ## Introduction
