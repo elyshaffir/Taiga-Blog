@@ -20,7 +20,7 @@
 
 title: Taiga Blog
 description: >- # this means to ignore newlines
-        This blog describes some of the bugs I encountered whilst developing my game Taiga in Rust using WGPU.
+        This blog was created to share some of what I learned while developing my game Taiga in Rust using WGPU.
 domain: elyshaffir.github.io
 baseurl: "/Taiga-Blog" # the subpath of your site, e.g. /blog
 url: "https://elyshaffir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
