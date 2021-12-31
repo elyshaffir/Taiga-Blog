@@ -35,7 +35,7 @@ fn vs_main(..., [[builtin(vertex_index)]] vertex_index: u32) -> ... {
 fn fs_main ...
 ```
 
-In this specific case the compute shader doesn't do too much, and the entire pipeline supports 4 vertices since `cp_main` runs 4 times (as indicated by the [`workgroup_size` attribute](https://www.w3.org/TR/WGSL/#attribute-workgroup_size), each time filling a [different](https://www.w3.org/TR/WGSL/#local-invocation-id) color vector in the `compute_data` buffer.
+In this specific case the compute shader doesn't do too much, and the entire pipeline supports 4 vertices since `cp_main` runs 4 times (as indicated by the [`workgroup_size` attribute](https://www.w3.org/TR/WGSL/#attribute-workgroup_size)), each time filling a [different](https://www.w3.org/TR/WGSL/#local-invocation-id) color vector in the `compute_data` buffer.
 
 |❗ Notice the type of `data` |
 
