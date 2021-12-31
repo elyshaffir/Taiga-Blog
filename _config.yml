@@ -24,10 +24,8 @@ description: >- # this means to ignore newlines
 domain: elyshaffir.github.io
 baseurl: "/Taiga-Blog" # the subpath of your site, e.g. /blog
 url: "https://elyshaffir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-author: Ely Shaffir
-github_username:  elyshaffir
-linkedin_username: ely-shaffir-582144ab
-
+author:
+        name: Ely Shaffir
 
 # Build settings
 remote_theme: jekyll/minima@3cdd14d
@@ -35,6 +33,10 @@ plugins:
   - jekyll-remote-theme
 minima:
         skin: dark
+        social_links:
+                linkedin: ely-shaffir-582144ab
+                github: elyshaffir
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

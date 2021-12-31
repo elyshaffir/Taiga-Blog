@@ -8,7 +8,7 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              {{ site.author | escape }}
+              {{ site.author.name | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}
@@ -17,6 +17,7 @@
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {%- endif -%}
         </ul>
+	<p>If you spot a mistake, please submit a <a href="https://github.com/elyshaffir/Taiga-Blog">PR</a>.</p>
       </div>
 
       <div class="footer-col footer-col-2">
@@ -25,7 +26,6 @@
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>
-	<p>If you spot a mistake, please submit a <a href="https://github.com/elyshaffir/Taiga-Blog">PR</a>.</p>
       </div>
     </div>
 
