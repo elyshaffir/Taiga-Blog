@@ -26,6 +26,7 @@ baseurl: "/Taiga-Blog" # the subpath of your site, e.g. /blog
 url: "https://elyshaffir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 author:
         name: Ely Shaffir
+google_analytics: UA-216061385-1
 
 # Build settings
 remote_theme: jekyll/minima@3cdd14d
